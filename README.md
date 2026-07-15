@@ -272,16 +272,6 @@ git submodule update --remote --merge \
 
 Adapta la ruta al cliente utilizado.
 
-## Publicar en GitHub
-
-1. Crea un repositorio vacío.
-2. Mueve o copia el contenido de esta carpeta a su raíz.
-3. Elige una licencia antes de publicarlo.
-4. Reemplaza `TU_USUARIO` en este README.
-5. Crea el primer commit y conecta el remote.
-6. Prueba una instalación limpia en al menos un proyecto temporal.
-
-Este paquete no incluye licencia para no asumir una sin decisión del autor.
 
 ## Uso rápido
 
