@@ -77,7 +77,7 @@ incluido.
 Después de publicarlo, reemplaza esta variable por la URL real:
 
 ```bash
-REPO_URL="https://github.com/TU_USUARIO/agentic-workflow-designer.git"
+REPO_URL="https://github.com/D0ggos/Workflow-Builder"
 ```
 
 Las instrucciones siguientes muestran instalación personal y por proyecto.
