@@ -74,8 +74,6 @@ incluido.
 
 ## Preparar el repositorio
 
-Después de publicarlo, reemplaza esta variable por la URL real:
-
 ```bash
 REPO_URL="https://github.com/D0ggos/Workflow-Builder"
 ```
